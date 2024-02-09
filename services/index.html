@@ -1,0 +1,330 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>digicBE</title>
+    <meta name="author" content="digic" />
+    <meta name="description" content="digic Business Engineering" />
+    <meta name="keywords" content="digic, business, engineering, agency, software, digital, web, IT, support" />
+    <meta name="Resource-type" content="Document" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <!-- Stylesheets-->
+    <link rel="apple-touch-icon" sizes="152x152" href="../assets/frontend/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/frontend/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/frontend/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="../assets/frontend/img/favicons/site.webmanifest">
+    <link rel="mask-icon" href="../assets/frontend/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="stylesheet" href="../assets/frontend/plugins/fullpage/jquery.fullpage.css" />
+    <link rel="stylesheet" href="../assets/frontend/ext/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/frontend/ext/all.css">
+    <link rel="stylesheet" href="../assets/frontend/ext/animate.min.css">
+    <link rel="stylesheet" href="../assets/frontend/plugins/bottom-sheet/bottom-sheet.css">
+    <link rel="stylesheet" href="../assets/frontend/plugins/slick/slick.css">
+    <link rel="stylesheet" href="../assets/frontend/plugins/slick/slick-theme.css">
+        <link rel="stylesheet" href="../assets/frontend/css/custom.css">
+</head>
+<body class="stretched">
+    <div id="wrapper" class="clearfix">
+        <div class="shadow-test"></div>
+    <div class="preloader-wrapper">
+        <div class="preloader">
+            <div class="logo-svg" align="center">
+                <svg version="1.1" x="0px" y="0px" viewBox="0 0 150 120" style="enable-background:new 0 0 150 120;width: 100px" xml:space="preserve">
+                    <style type="text/css">
+                    .st21 {
+                        fill: none;
+                        transition: .3s;
+                        stroke: #fff;
+                        stroke-width: 15;
+                        stroke-miterlimit: 10;
+                        stroke-dasharray: 300;
+                        stroke-dashoffset: 0;
+                        animation: fadeIn 2s infinite;
+                    }
+
+                    @keyframes  fadeIn {
+                        0% {
+                            opacity: 0.9;
+                            stroke-dashoffset: 300;
+                        }
+                        85% {
+                            opacity: 1;
+                            stroke-dashoffset: 0;
+                        }
+                        100% {
+                            stroke-dashoffset: 0;
+                            opacity: 0;
+                        }
+                    }
+                    </style>
+                    <g id="Layer_1">
+                        <path class="st21" d="M65,68.4L48.1,82.5c-2,1.6-4.5,2.5-7,2.5c-6,0-10.9-4.9-10.9-10.9V45.8c0-6,4.9-10.9,10.9-10.9
+        c1.3,0,2.5,0.2,4.2,0.8c0.5,0.1,1.3,0.4,2,1l55.5,46.6c0.7,0.6,1.5,0.9,2,1c1.7,0.6,2.9,0.8,4.2,0.8c6,0,10.9-4.9,10.9-10.9V45.8
+        c0-6-4.9-10.9-10.9-10.9c-2.5,0-5,0.9-7,2.5L85,51.6">
+                        </path>
+                    </g>
+                </svg>
+            </div>
+        </div>
+    </div>
+    <img class="logo-usaha animated" src="../assets/frontend/img/logo.svg">
+    <div id="header">
+        <a class="btn-usaha hire-chat" href="#" data-toggle="bottom-sheet" data-target="#bsheet-1">Pilih Kami</a>
+        <section class="md-bottom-sheet" data-touch="true" data-full-width="false" data-full-height="true" data-persistent="false" id="bsheet-1">
+            <div class="md-bottom-sheet__shadow"></div>
+            <div class="md-bottom-sheet__surface">
+                <table>
+                    <tbody class="bind-list">
+                        <tr>
+                            <td>
+                                <div class="left-hire-us one animated">
+                                    <div class="img-left">
+                                        <img class="animated" src="../assets/frontend/img/techsupport.png>
+                                    </div>
+                                    <div class="text-left">
+                                        <span class="text animated" id="typing-chat"></span>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="right-hire-us one animated">
+                                    <div class="img-right">
+                                        <img class="animated" src="../assets/frontend/img/user-placeholder.png">
+                                    </div>
+                                    <div class="text-right">
+                                        <span class="text"><input style="width: 100%" id="name-input" type="text" placeholder="Your Name"></span>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        <div class="open">
+            <span class="cls"></span>
+            <span>
+                <ul class="sub-menu">
+                    <li>
+                        <a class="" href=".." title="home">UTAMA</a>
+                    </li>
+                    <li>
+                        <a class="active" href="../services" title="services">LAYANAN DIGITAL</a>
+                    </li>
+                    <li>
+                        <a class="" href="../works" title="works">BUNDEL LAYANAN</a>
+                    </li>
+                    <li>
+                        <a class="" href="../about" title="about">TENTANG DIGIC.ID</a>
+                    </li>
+                    <li>
+                        <a href="mailto:hi@digic.id">KONTAK KAMI</a>
+                    </li>
+                </ul>
+            </span>
+            <span class="cls second"></span>
+            <span class="cls third"></span>
+        </div>
+    </div>        <div id="fullpage">
+    <div class="section " id="section0">
+        <div class="container-custom">
+            <div class="static-height-div">
+                <div class="typing-title-container animated">
+                    <span class="typing-title" id="typing-services"></span>
+                </div>
+                <p class="animation-in animated">10+ tahun pengalaman dalam pengelolaan IT untuk bisnis ritel, manufaktur & trading
+                    <br>5+ tahun pengalaman support perusahaan manufaktur Jepang
+                    <br>Pengalaman implementasi factory automation tingkat enterprise (ERP, MES, SCADA, PLC)</p>
+            </div>
+        </div>
+        <div class="number-home animated">02</div>
+    </div>
+    <div class="section" id="section1">
+        <div class="bg-wrap animated">
+            <div class="bg-slide-services2 animated"></div>
+            <div class="top-btn">
+                <a href="#" id="vertical-prev"><i class="fas fa-chevron-up"></i></a>
+            </div>
+            <div class="bottom-btn">
+                <a href="#" id="vertical-next"><i class="fas fa-chevron-down"></i></a>
+            </div>
+        </div>
+        <div class="h-100 slide-vertical-left">
+            <div class="row justify-content-center align-items-center h-100">
+                <div class="col-sm-5 list-all-services animated">
+                    <section class="vertical-center slider">
+                        <div class="text-slide-vertical">
+                            <div class="number-title">01</div>
+                            <div>IT SUPPORT</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">02</div>
+                            <div>KOMPUTER, PRINTER & AKSESORIS</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">03</div>
+                            <div>SERVER, JARINGAN & SPAREPART</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">04</div>
+                            <div>WEBSITE + EMAIL PERUSAHAAN</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">05</div>
+                            <div>WEB HOSTING & DOMAIN</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">06</div>
+                            <div>PENGEMBANGAN APLIKASI (DESKTOP, WEB & MOBILE)</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">07</div>
+                            <div>SOLUSI SIAP PAKAI (ACCT, POS, WMS, PAYROLL, HRIS)</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">08</div>
+                            <div>SISTEM CCTV</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">09</div>
+                            <div>INTERNET UNTUK BISNIS</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">10</div>
+                            <div>INTEGRASI SISTEM & ETL</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">11</div>
+                            <div>TEKNOLOGI BIOMETRIK (SIDIK JARI, PENGENALAN WAJAH, AKSES PINTU)</div>
+                        </div>
+                        <div class="text-slide-vertical">
+                            <div class="number-title">12</div>
+                            <div>DAN IDE-IDE DIGITAL ANDA LAINNYA</div>
+                        </div>
+                    </section>
+                </div>
+                <div class="col-sm-7">
+                    <div class="detail-services animated">
+                        <div class="big-title color-primary">
+                            <b>10+</b> tahun Pengalaman
+                            <br>Melayani Bisnis
+                        </div>
+                        <p class="desc-detail-services">Setiap bisnis digital, membutuhkan dukungan IT untuk operasional. Bila bisnis belum dirasa perlu memiliki SDM IT internal, kami siap menyediakan dukungan IT yang bisa disesuaikan dengan kebutuhan bisnis, dengan biaya yang juga disesuaikan</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="section2">
+        <div class="row no-gutters h-100 align-items-center responsive1-3dr">
+            <div class="col-sm-4 h-100">
+                <div class="row align-content-between flex-wrap h-100 text-3dr first-part">
+                    <div class="col-12 s3dr-part1 animated">
+                        <div class="title-3dr">PLAN</div>
+                        <p>Konsultasi Produk
+                            <br>Pengumpulan Data
+                            <br>Analisa Spesifikasi
+                            <br>Prototype & Desain Awal&nbsp;</p>
+                    </div>
+                    <div class="col-12 s3dr-part4 animated">
+                        <div class="title-3dr">ACT</div>
+                        <p>Penanganan Kendala Terdokumentasi
+                            <br>Analisa Sumber Masalah
+                            <br>Analisa Proses Bisnis
+                            <br>Evaluasi Kepuasan Layanan&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 img-3dr animated">
+                <div class="d-flex align-items-center justify-content-center">
+                    <img class="animated bounceIn" src="../assets/frontend/img/pdca.svg" style="width: 25rem;">
+                </div>
+            </div>
+            <div class="col-sm-4 h-100">
+                <div class="row align-content-between flex-wrap h-100 text-3dr">
+                    <div class="col-12 s3dr-part2 animated">
+                        <div class="title-3dr">DO</div>
+                        <p>Analisa Arsitektur Bisnis
+                            <br>Koding & Eksekusi
+                            <br>Manajemen Proyek
+                            <br>Laporan Progress Terdokumentasi</p>
+                    </div>
+                    <div class="col-12 s3dr-part3 animated">
+                        <div class="title-3dr">CHECK</div>
+                        <p>Manajemen Layanan
+                            <br>Implementasi Infrastruktur
+                            <br>Rilis & Trial Produk
+                            <br>Perawatan Produk & Layanan</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="section3">
+        <div class="slide active">
+            <div class="row text-contact">
+                <div class="col-sm-4 offset-sm-1 text-map-id">
+                    <div class="title-country animated">Sugiyono,SE.RFP</div>
+                    <p class="animated">Sales Marketing
+                        <br>0857-7892-0159
+                        <br><a class="email-about" href="mailto:sugiyono@digic.id?Subject=Hi digic" target="_top">sugiyono@digic.id</a></p>
+                </div>
+            </div>
+            <div class="img-map">
+                <object class="img-map-id animated" data="../assets/frontend/img/map-id.svg" type="image/svg+xml"></object>
+            </div>
+        </div>
+    </div>
+</div>
+        <style>
+  .wa-custom {
+    display: block;
+    position: fixed; 
+    right: 20px; 
+    bottom: 20px; 
+    width: 50px; 
+    height: 50px;
+    z-index: 100;
+  }
+  .wa-custom img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
+<a href="javascript:void(0)" class="wa-custom">
+  <img src="../assets/frontend/img/whatsapp.png">
+</a>
+<div class="scroll-icon animated">
+  <a class="smoothscroll">
+      <div class="mouse"></div>
+  </a>
+  <div class="end-top"></div>
+</div>    </div>
+    <script type="text/javascript" src="../assets/frontend/ext/jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/ext/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/jquery.session.js"></script>
+    <script src="../assets/frontend/ext/popper.min.js"></script>
+    <script src="../assets/frontend/ext/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/jquery.easings.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/scrolloverflow.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/fullpage/jquery.fullpage.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/bottom-sheet/bottom-sheet.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/slick/slick.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/typed/typed.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/limarquee/jquery.limarquee.js"></script>
+        <script type="text/javascript" src="../assets/frontend/js/custom.js"></script>
+    <script type="text/javascript" src="../assets/frontend/js/services.js"></script>
+</body>
+
+</html>
+

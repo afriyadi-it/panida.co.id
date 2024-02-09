@@ -1,0 +1,287 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>digicBE</title>
+    <meta name="author" content="digic" />
+    <meta name="description" content="digic Business Engineering" />
+    <meta name="keywords" content="digic, business, engineering, agency, software, digital, web, IT, support" />
+    <meta name="Resource-type" content="Document" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <!-- Stylesheets-->
+    <link rel="apple-touch-icon" sizes="152x152" href="../assets/frontend/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/frontend/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/frontend/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="../assets/frontend/img/favicons/site.webmanifest">
+    <link rel="mask-icon" href="../assets/frontend/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="../assets/frontend/plugins/fullpage/jquery.fullpage.css" />
+    <link rel="stylesheet" href="../assets/frontend/ext/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/frontend/ext/all.css">
+    <link rel="stylesheet" href="../assets/frontend/ext/animate.min.css">
+    <link rel="stylesheet" href="../assets/frontend/plugins/bottom-sheet/bottom-sheet.css">
+    <link rel="stylesheet" href="../assets/frontend/plugins/slick/slick.css">
+    <link rel="stylesheet" href="../assets/frontend/plugins/slick/slick-theme.css">
+        <link rel="stylesheet" href="../assets/frontend/css/custom.css">
+</head>
+<body class="stretched">
+    <div id="wrapper" class="clearfix">
+        <div class="shadow-test"></div>
+    <div class="preloader-wrapper">
+        <div class="preloader">
+            <div class="logo-svg" align="center">
+                <svg version="1.1" x="0px" y="0px" viewBox="0 0 150 120" style="enable-background:new 0 0 150 120;width: 100px" xml:space="preserve">
+                    <style type="text/css">
+                    .st21 {
+                        fill: none;
+                        transition: .3s;
+                        stroke: #fff;
+                        stroke-width: 15;
+                        stroke-miterlimit: 10;
+                        stroke-dasharray: 300;
+                        stroke-dashoffset: 0;
+                        animation: fadeIn 2s infinite;
+                    }
+
+                    @keyframes  fadeIn {
+                        0% {
+                            opacity: 0.9;
+                            stroke-dashoffset: 300;
+                        }
+                        85% {
+                            opacity: 1;
+                            stroke-dashoffset: 0;
+                        }
+                        100% {
+                            stroke-dashoffset: 0;
+                            opacity: 0;
+                        }
+                    }
+                    </style>
+                    <g id="Layer_1">
+                        <path class="st21" d="M65,68.4L48.1,82.5c-2,1.6-4.5,2.5-7,2.5c-6,0-10.9-4.9-10.9-10.9V45.8c0-6,4.9-10.9,10.9-10.9
+        c1.3,0,2.5,0.2,4.2,0.8c0.5,0.1,1.3,0.4,2,1l55.5,46.6c0.7,0.6,1.5,0.9,2,1c1.7,0.6,2.9,0.8,4.2,0.8c6,0,10.9-4.9,10.9-10.9V45.8
+        c0-6-4.9-10.9-10.9-10.9c-2.5,0-5,0.9-7,2.5L85,51.6">
+                        </path>
+                    </g>
+                </svg>
+            </div>
+        </div>
+    </div>
+    <img class="logo-usaha animated" src="../assets/frontend/img/logo.svg">
+    <div id="header">
+        <a class="btn-usaha hire-chat" href="#" data-toggle="bottom-sheet" data-target="#bsheet-1">Pilih Kami</a>
+        <section class="md-bottom-sheet" data-touch="true" data-full-width="false" data-full-height="true" data-persistent="false" id="bsheet-1">
+            <div class="md-bottom-sheet__shadow"></div>
+            <div class="md-bottom-sheet__surface">
+                <table>
+                    <tbody class="bind-list">
+                        <tr>
+                            <td>
+                                <div class="left-hire-us one animated">
+                                    <div class="img-left">
+                                        <img class="animated" src="../assets/frontend/img/techsupport.png">
+                                    </div>
+                                    <div class="text-left">
+                                        <span class="text animated" id="typing-chat"></span>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="right-hire-us one animated">
+                                    <div class="img-right">
+                                        <img class="animated" src="../assets/frontend/img/user-placeholder.png">
+                                    </div>
+                                    <div class="text-right">
+                                        <span class="text"><input style="width: 100%" id="name-input" type="text" placeholder="Your Name"></span>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        <div class="open">
+            <span class="cls"></span>
+            <span>
+                <ul class="sub-menu">
+                    <li>
+                        <a class="" href=".." title="home">UTAMA</a>
+                    </li>
+                    <li>
+                        <a class="" href="../services" title="services">LAYANAN DIGITAL</a>
+                    </li>
+                    <li>
+                        <a class="active" href="../works" title="works">BUNDEL LAYANAN</a>
+                    </li>
+                    <li>
+                        <a class="" href="../about" title="about">TENTANG DIGIC.ID</a>
+                    </li>
+                    <li>
+                        <a href="mailto:hi@digic.id">KONTAK KAMI</a>
+                    </li>
+                </ul>
+            </span>
+            <span class="cls second"></span>
+            <span class="cls third"></span>
+        </div>
+    </div>        <div id="fullpage">
+    <div class="section " id="section0">
+        <div class="container-custom">
+            <div class="static-height-div">
+                <div class="typing-title-container animated">
+                    <span class="typing-title" id="typing-works"></span>
+                </div>
+                <p class="animation-in animated">Kami menyediakan layanan professional & efektif secara cost
+                    <br>agar pelanggan kami memiliki digitalisasi yang efektif & tepat guna
+                    <br>sehingga pelanggan kami memiliki daya tahan bisnis yang tangguh, dan menjadi partner kami dalam jangka yang panjang</p>
+            </div>
+        </div>
+        <div class="number-home animated">03</div>
+    </div>
+    <div class="section" id="section2">
+        <img src="../assets/frontend/img/bg-client.svg" class="bg-circle-client responsive1-3dr">
+        <div class="round-section responsive1-3dr">
+            <div class="curve"></div>
+            <ul>
+                <li>.</li>
+                <li><a class="active" href="./works#client1">01</a></li>
+                <li><a href="./works#client2">02</a></li>
+                <li><a href="./works#client3">03</a></li>
+            </ul>
+        </div>
+        <img src="../assets/frontend/img/works/mummys.png" class="client-detail-img first">
+        <div class="container-custom works-section">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <img src="../assets/frontend/img/works/logo-digic.id.png">
+                    <div class="color-black">
+                        <h4>END TO END<br>IT SUPPORT</h4>
+                        <p>kami menyediakan layanan IT support sebagai dasar pendukung semua layanan IT untuk bisnis yang belum memiliki tenaga IT. layanan support yang terdokumentasi dan kuantitatif, memberikan keamanan dan kenyamanan operasional bisnis anda</p>
+                        <div class="category-wroks">support - operasional - perawatan
+                            <br>infrastruktur - user training - layanan</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="section3">
+        <img src="../assets/frontend/img/bg-client.svg" class="bg-circle-client responsive1-3dr">
+        <div class="round-section responsive1-3dr">
+            <div class="curve"></div>
+            <ul>
+                <li>.</li>
+                <li><a href="./works#client1">01</a></li>
+                <li><a class="active" href="./works#client2">02</a></li>
+                <li><a href="./works#client3">03</a></li>
+            </ul>
+        </div>
+        <img src="../assets/frontend/img/works/polda.png" class="client-detail-img main">
+        <div class="container-custom works-section">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <img src="../assets/frontend/img/works/logo-digic.id.png">
+                    <div class="color-black">
+                        <h4>SUPLAI PERANGKAT DIGITAL<br>DAN SUKUCADANGNYA</h4>
+                        <p>komputer adalah perangkat pendukung setiap bisnis digital, komputer memiliki beragam spesifikasi teknis, perubahan spesifikasi dan teknologi sangat cepat, mengikuti semua itu membutuhkan energi dan sumber daya yang tidak sedikit. Kami dapat mengurangi beban anda dan mendukung anda dalam memberikan suplai perangkat sesuai kebutuhan bisnis anda</p>
+                        <div class="category-wroks">pengadaan - konsultasi
+                            <br>hardware - software - infrastruktur</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="section4">
+        <img src="../assets/frontend/img/bg-client.svg" class="bg-circle-client responsive1-3dr">
+        <div class="round-section responsive1-3dr">
+            <div class="curve"></div>
+            <ul>
+                <li>.</li>
+                <li><a href="./works#client1">01</a></li>
+                <li><a href="./works#client2">02</a></li>
+                <li><a class="active" href="./works#client3">03</a></li>
+            </ul>
+        </div>
+        <img src="../assets/frontend/img/works/love-life.png" class="client-detail-img main">
+        <div class="container-custom works-section">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <img src="../assets/frontend/img/works/logo-digic.id.png">
+                    <div class="color-black">
+                        <h4>MULAI BISNIS ANDA SEKARANG<br>DENGAN CARA DIGITAL</h4>
+                        <p>Memulai Start-Up? package branding (website, email, kartu nama), sistem akuntasi/keuangan? infrastruktur pendukung seperti CCTV, WiFi, absensi sidik jadi? Kami siap mendukung Anda dan bisnis Anda dari sisi teknologi, Anda bisa fokus dengan ide-ide bisnis Anda</p>
+                        <div class="category-wroks">konsultasi - pengembangan sistem - implementasi
+                            <br>layanan - software - infrastruktur</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="section10">
+        <div class="slide active">
+            <div class="row text-contact">
+                <div class="col-sm-4 offset-sm-1 text-map-id">
+                    <div class="title-country animated">Sugiyono,SE.RFP</div>
+                    <p class="animated">Sales Marketing
+                        <br>0857-7892-0159
+                        <br><a class="email-about" href="mailto:sugiyono@digic.id?Subject=Hi digic" target="_top">sugiyono@digic.id</a></p>
+                </div>
+            </div>
+            <div class="img-map">
+                <object class="img-map-id animated" data="../assets/frontend/img/map-id.svg" type="image/svg+xml"></object>
+            </div>
+        </div>
+    </div>
+</div>
+        <style>
+  .wa-custom {
+    display: block;
+    position: fixed; 
+    right: 20px; 
+    bottom: 20px; 
+    width: 50px; 
+    height: 50px;
+    z-index: 100;
+  }
+  .wa-custom img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
+<a href="javascript:void(0)" class="wa-custom">
+  <img src="../assets/frontend/img/whatsapp.png">
+</a>
+<div class="scroll-icon animated">
+  <a class="smoothscroll">
+      <div class="mouse"></div>
+  </a>
+  <div class="end-top"></div>
+</div>    </div>
+    <script type="text/javascript" src="../assets/frontend/ext/jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/ext/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/jquery.session.js"></script>
+    <script src="../assets/frontend/ext/popper.min.js"></script>
+    <script src="../assets/frontend/ext/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/jquery.easings.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/scrolloverflow.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/fullpage/jquery.fullpage.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/bottom-sheet/bottom-sheet.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/slick/slick.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/typed/typed.min.js"></script>
+    <script type="text/javascript" src="../assets/frontend/plugins/limarquee/jquery.limarquee.js"></script>
+        <script type="text/javascript" src="../assets/frontend/js/custom.js"></script>
+    <script type="text/javascript" src="../assets/frontend/js/works.js"></script>
+</body>
+
+</html>
+

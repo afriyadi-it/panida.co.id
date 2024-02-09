@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 659.174 428.91"
+   version="1.1"
+   id="svg657"
+   sodipodi:docname="map-jp.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata661">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview659"
+     showgrid="false"
+     inkscape:zoom="0.60930292"
+     inkscape:cx="197.88756"
+     inkscape:cy="342.84806"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg657" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fa6900;
+        stroke-width: 4px;
+        -webkit-animation-duration: 1.3s;
+        animation-duration: 1.3s;
+        -webkit-animation-iteration-count: infinite;
+        animation-iteration-count: infinite;
+        -webkit-animation-name: animate-blink;
+        animation-name: animate-blink;
+      }
+      @keyframes animate-blink {
+        0% {
+          opacity: 0.1;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0.1;
+        }
+      }
+      @-webkit-keyframes animate-blink {
+        -webkit-0% {
+          opacity: 0.1;
+        }
+        -webkit-50% {
+          opacity: 1;
+        }
+        -webkit-100% {
+          opacity: 0.1;
+        }
+      }
+    </style>
+  </defs>
+  <circle
+     id="Ellipse_49"
+     data-name="Ellipse 49"
+     class="cls-1"
+     cx="86.557304"
+     cy="234.19751"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_79"
+     data-name="Path 79"
+     class="cls-1"
+     d="m 117.32516,234.77777 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_51"
+     data-name="Ellipse 51"
+     class="cls-1"
+     cx="316.013"
+     cy="302.60599"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_56"
+     data-name="Ellipse 56"
+     class="cls-1"
+     cx="139.94112"
+     cy="234.13545"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_60"
+     data-name="Ellipse 60"
+     class="cls-1"
+     cx="5.0502586"
+     cy="234.71571"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_61"
+     data-name="Ellipse 61"
+     class="cls-1"
+     cx="329.58701"
+     cy="289.03201"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_70"
+     data-name="Ellipse 70"
+     class="cls-1"
+     cx="5.0502586"
+     cy="221.14174"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_71"
+     data-name="Ellipse 71"
+     class="cls-1"
+     cx="343.16101"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_72"
+     data-name="Ellipse 72"
+     class="cls-1"
+     cx="329.58701"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_73"
+     data-name="Ellipse 73"
+     class="cls-1"
+     cx="316.013"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_74"
+     data-name="Ellipse 74"
+     class="cls-1"
+     cx="302.439"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_75"
+     data-name="Ellipse 75"
+     class="cls-1"
+     cx="288.86499"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_76"
+     data-name="Ellipse 76"
+     class="cls-1"
+     cx="275.45599"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_77"
+     data-name="Ellipse 77"
+     class="cls-1"
+     cx="261.88199"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_78"
+     data-name="Ellipse 78"
+     class="cls-1"
+     cx="248.308"
+     cy="275.457"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_91"
+     data-name="Ellipse 91"
+     class="cls-1"
+     cx="343.16101"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_92"
+     data-name="Ellipse 92"
+     class="cls-1"
+     cx="329.58701"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_93"
+     data-name="Ellipse 93"
+     class="cls-1"
+     cx="316.013"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_94"
+     data-name="Ellipse 94"
+     class="cls-1"
+     cx="302.439"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_95"
+     data-name="Ellipse 95"
+     class="cls-1"
+     cx="288.86499"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_96"
+     data-name="Ellipse 96"
+     class="cls-1"
+     cx="275.45599"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_97"
+     data-name="Ellipse 97"
+     class="cls-1"
+     cx="261.88199"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_98"
+     data-name="Ellipse 98"
+     class="cls-1"
+     cx="248.308"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_99"
+     data-name="Ellipse 99"
+     class="cls-1"
+     cx="234.73399"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_100"
+     data-name="Ellipse 100"
+     class="cls-1"
+     cx="221.16"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_101"
+     data-name="Ellipse 101"
+     class="cls-1"
+     cx="207.586"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_102"
+     data-name="Ellipse 102"
+     class="cls-1"
+     cx="194.177"
+     cy="261.883"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_108"
+     data-name="Ellipse 108"
+     class="cls-1"
+     cx="45.607258"
+     cy="234.61082"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_112"
+     data-name="Ellipse 112"
+     class="cls-1"
+     cx="383.71799"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_84"
+     data-name="Path 84"
+     class="cls-1"
+     d="m 374.613,248.309 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_113"
+     data-name="Ellipse 113"
+     class="cls-1"
+     cx="316.013"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_114"
+     data-name="Ellipse 114"
+     class="cls-1"
+     cx="302.439"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_115"
+     data-name="Ellipse 115"
+     class="cls-1"
+     cx="288.86499"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_116"
+     data-name="Ellipse 116"
+     class="cls-1"
+     cx="275.45599"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_117"
+     data-name="Ellipse 117"
+     class="cls-1"
+     cx="261.88199"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_118"
+     data-name="Ellipse 118"
+     class="cls-1"
+     cx="248.308"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_119"
+     data-name="Ellipse 119"
+     class="cls-1"
+     cx="234.73399"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_120"
+     data-name="Ellipse 120"
+     class="cls-1"
+     cx="221.16"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_121"
+     data-name="Ellipse 121"
+     class="cls-1"
+     cx="207.586"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_122"
+     data-name="Ellipse 122"
+     class="cls-1"
+     cx="153.45399"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_123"
+     data-name="Ellipse 123"
+     class="cls-1"
+     cx="139.88"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_127"
+     data-name="Ellipse 127"
+     class="cls-1"
+     cx="31.452999"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_128"
+     data-name="Ellipse 128"
+     class="cls-1"
+     cx="17.879"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_129"
+     data-name="Ellipse 129"
+     class="cls-1"
+     cx="4.4699998"
+     cy="248.30901"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_130"
+     data-name="Ellipse 130"
+     class="cls-1"
+     cx="397.29199"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_131"
+     data-name="Ellipse 131"
+     class="cls-1"
+     cx="383.71799"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_86"
+     data-name="Path 86"
+     class="cls-1"
+     d="m 374.613,234.735 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_132"
+     data-name="Ellipse 132"
+     class="cls-1"
+     cx="343.16101"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_133"
+     data-name="Ellipse 133"
+     class="cls-1"
+     cx="329.58701"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_134"
+     data-name="Ellipse 134"
+     class="cls-1"
+     cx="316.013"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_135"
+     data-name="Ellipse 135"
+     class="cls-1"
+     cx="302.439"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_136"
+     data-name="Ellipse 136"
+     class="cls-1"
+     cx="288.86499"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_137"
+     data-name="Ellipse 137"
+     class="cls-1"
+     cx="275.45599"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_138"
+     data-name="Ellipse 138"
+     class="cls-1"
+     cx="261.88199"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_139"
+     data-name="Ellipse 139"
+     class="cls-1"
+     cx="248.308"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_140"
+     data-name="Ellipse 140"
+     class="cls-1"
+     cx="234.73399"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_141"
+     data-name="Ellipse 141"
+     class="cls-1"
+     cx="221.16"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_142"
+     data-name="Ellipse 142"
+     class="cls-1"
+     cx="207.586"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_143"
+     data-name="Ellipse 143"
+     class="cls-1"
+     cx="194.177"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_144"
+     data-name="Ellipse 144"
+     class="cls-1"
+     cx="180.603"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_145"
+     data-name="Ellipse 145"
+     class="cls-1"
+     cx="167.02901"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_146"
+     data-name="Ellipse 146"
+     class="cls-1"
+     cx="153.45399"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_147"
+     data-name="Ellipse 147"
+     class="cls-1"
+     cx="126.306"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_148"
+     data-name="Ellipse 148"
+     class="cls-1"
+     cx="99.322998"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_151"
+     data-name="Ellipse 151"
+     class="cls-1"
+     cx="31.452999"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_152"
+     data-name="Ellipse 152"
+     class="cls-1"
+     cx="17.879"
+     cy="234.735"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_153"
+     data-name="Ellipse 153"
+     class="cls-1"
+     cx="465.20578"
+     cy="98.891396"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_158"
+     data-name="Ellipse 158"
+     class="cls-1"
+     cx="424.44101"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_87"
+     data-name="Path 87"
+     class="cls-1"
+     d="m 415.336,221.326 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_159"
+     data-name="Ellipse 159"
+     class="cls-1"
+     cx="397.29199"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_160"
+     data-name="Ellipse 160"
+     class="cls-1"
+     cx="383.71799"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_88"
+     data-name="Path 88"
+     class="cls-1"
+     d="m 374.613,221.326 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_161"
+     data-name="Ellipse 161"
+     class="cls-1"
+     cx="356.73599"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_162"
+     data-name="Ellipse 162"
+     class="cls-1"
+     cx="343.16101"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_163"
+     data-name="Ellipse 163"
+     class="cls-1"
+     cx="329.58701"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_164"
+     data-name="Ellipse 164"
+     class="cls-1"
+     cx="316.013"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_165"
+     data-name="Ellipse 165"
+     class="cls-1"
+     cx="302.439"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_166"
+     data-name="Ellipse 166"
+     class="cls-1"
+     cx="288.86499"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_167"
+     data-name="Ellipse 167"
+     class="cls-1"
+     cx="275.45599"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_168"
+     data-name="Ellipse 168"
+     class="cls-1"
+     cx="261.88199"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_169"
+     data-name="Ellipse 169"
+     class="cls-1"
+     cx="248.308"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_170"
+     data-name="Ellipse 170"
+     class="cls-1"
+     cx="234.73399"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_171"
+     data-name="Ellipse 171"
+     class="cls-1"
+     cx="221.16"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_172"
+     data-name="Ellipse 172"
+     class="cls-1"
+     cx="207.586"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_173"
+     data-name="Ellipse 173"
+     class="cls-1"
+     cx="194.177"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_174"
+     data-name="Ellipse 174"
+     class="cls-1"
+     cx="180.603"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_175"
+     data-name="Ellipse 175"
+     class="cls-1"
+     cx="167.02901"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_176"
+     data-name="Ellipse 176"
+     class="cls-1"
+     cx="153.45399"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_177"
+     data-name="Ellipse 177"
+     class="cls-1"
+     cx="139.88"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_178"
+     data-name="Ellipse 178"
+     class="cls-1"
+     cx="126.306"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_179"
+     data-name="Ellipse 179"
+     class="cls-1"
+     cx="112.732"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_180"
+     data-name="Ellipse 180"
+     class="cls-1"
+     cx="99.322998"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_89"
+     data-name="Path 89"
+     class="cls-1"
+     d="m 90.053,221.326 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_181"
+     data-name="Ellipse 181"
+     class="cls-1"
+     cx="72.175003"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_182"
+     data-name="Ellipse 182"
+     class="cls-1"
+     cx="58.600998"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_183"
+     data-name="Ellipse 183"
+     class="cls-1"
+     cx="45.027"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_184"
+     data-name="Ellipse 184"
+     class="cls-1"
+     cx="17.879"
+     cy="221.326"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_90"
+     data-name="Path 90"
+     class="cls-1"
+     d="m 536.69562,99.242602 a 4.47,4.47 0 1 1 -4.47,-4.469 4.451,4.451 0 0 1 4.47,4.469 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_186"
+     data-name="Ellipse 186"
+     class="cls-1"
+     cx="465.20578"
+     cy="85.31739"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_91"
+     data-name="Path 91"
+     class="cls-1"
+     d="m 483.72514,113.16881 a 4.47,4.47 0 1 1 -4.47,-4.469 4.451,4.451 0 0 1 4.47,4.469 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_188"
+     data-name="Ellipse 188"
+     class="cls-1"
+     cx="465.68213"
+     cy="113.16982"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_193"
+     data-name="Ellipse 193"
+     class="cls-1"
+     cx="438.01501"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_194"
+     data-name="Ellipse 194"
+     class="cls-1"
+     cx="424.44101"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_92"
+     data-name="Path 92"
+     class="cls-1"
+     d="m 415.336,207.751 a 4.47,4.47 0 1 1 -4.47,-4.469 4.451,4.451 0 0 1 4.47,4.469 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_195"
+     data-name="Ellipse 195"
+     class="cls-1"
+     cx="397.29199"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_196"
+     data-name="Ellipse 196"
+     class="cls-1"
+     cx="383.71799"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_93"
+     data-name="Path 93"
+     class="cls-1"
+     d="m 374.613,207.751 a 4.47,4.47 0 1 1 -4.47,-4.469 4.451,4.451 0 0 1 4.47,4.469 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_197"
+     data-name="Ellipse 197"
+     class="cls-1"
+     cx="356.73599"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_198"
+     data-name="Ellipse 198"
+     class="cls-1"
+     cx="343.16101"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_199"
+     data-name="Ellipse 199"
+     class="cls-1"
+     cx="329.58701"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_200"
+     data-name="Ellipse 200"
+     class="cls-1"
+     cx="316.013"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_201"
+     data-name="Ellipse 201"
+     class="cls-1"
+     cx="302.439"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_202"
+     data-name="Ellipse 202"
+     class="cls-1"
+     cx="288.86499"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_203"
+     data-name="Ellipse 203"
+     class="cls-1"
+     cx="275.45599"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_204"
+     data-name="Ellipse 204"
+     class="cls-1"
+     cx="261.88199"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_205"
+     data-name="Ellipse 205"
+     class="cls-1"
+     cx="248.308"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_206"
+     data-name="Ellipse 206"
+     class="cls-1"
+     cx="234.73399"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_207"
+     data-name="Ellipse 207"
+     class="cls-1"
+     cx="221.16"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_208"
+     data-name="Ellipse 208"
+     class="cls-1"
+     cx="207.586"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_209"
+     data-name="Ellipse 209"
+     class="cls-1"
+     cx="194.177"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_210"
+     data-name="Ellipse 210"
+     class="cls-1"
+     cx="180.603"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_211"
+     data-name="Ellipse 211"
+     class="cls-1"
+     cx="167.02901"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_212"
+     data-name="Ellipse 212"
+     class="cls-1"
+     cx="153.45399"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_213"
+     data-name="Ellipse 213"
+     class="cls-1"
+     cx="139.88"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_214"
+     data-name="Ellipse 214"
+     class="cls-1"
+     cx="126.306"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_215"
+     data-name="Ellipse 215"
+     class="cls-1"
+     cx="112.732"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_216"
+     data-name="Ellipse 216"
+     class="cls-1"
+     cx="99.322998"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_94"
+     data-name="Path 94"
+     class="cls-1"
+     d="m 90.053,207.751 a 4.47,4.47 0 1 1 -4.47,-4.469 4.451,4.451 0 0 1 4.47,4.469 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_217"
+     data-name="Ellipse 217"
+     class="cls-1"
+     cx="72.175003"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_218"
+     data-name="Ellipse 218"
+     class="cls-1"
+     cx="58.600998"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_219"
+     data-name="Ellipse 219"
+     class="cls-1"
+     cx="45.027"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_220"
+     data-name="Ellipse 220"
+     class="cls-1"
+     cx="31.452999"
+     cy="207.752"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_95"
+     data-name="Path 95"
+     class="cls-1"
+     d="m 483.72514,99.595813 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_228"
+     data-name="Ellipse 228"
+     class="cls-1"
+     cx="465.16299"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_229"
+     data-name="Ellipse 229"
+     class="cls-1"
+     cx="451.58899"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_230"
+     data-name="Ellipse 230"
+     class="cls-1"
+     cx="438.01501"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_231"
+     data-name="Ellipse 231"
+     class="cls-1"
+     cx="424.44101"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_96"
+     data-name="Path 96"
+     class="cls-1"
+     d="m 415.336,194.178 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_232"
+     data-name="Ellipse 232"
+     class="cls-1"
+     cx="397.29199"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_233"
+     data-name="Ellipse 233"
+     class="cls-1"
+     cx="383.71799"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_97"
+     data-name="Path 97"
+     class="cls-1"
+     d="m 374.613,194.178 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_234"
+     data-name="Ellipse 234"
+     class="cls-1"
+     cx="356.73599"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_235"
+     data-name="Ellipse 235"
+     class="cls-1"
+     cx="343.16101"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_239"
+     data-name="Ellipse 239"
+     class="cls-1"
+     cx="288.86499"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_240"
+     data-name="Ellipse 240"
+     class="cls-1"
+     cx="275.45599"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_241"
+     data-name="Ellipse 241"
+     class="cls-1"
+     cx="261.88199"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_245"
+     data-name="Ellipse 245"
+     class="cls-1"
+     cx="207.586"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_246"
+     data-name="Ellipse 246"
+     class="cls-1"
+     cx="194.177"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_247"
+     data-name="Ellipse 247"
+     class="cls-1"
+     cx="180.603"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_248"
+     data-name="Ellipse 248"
+     class="cls-1"
+     cx="167.02901"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_249"
+     data-name="Ellipse 249"
+     class="cls-1"
+     cx="153.45399"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_250"
+     data-name="Ellipse 250"
+     class="cls-1"
+     cx="139.88"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_251"
+     data-name="Ellipse 251"
+     class="cls-1"
+     cx="126.306"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_252"
+     data-name="Ellipse 252"
+     class="cls-1"
+     cx="112.732"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_253"
+     data-name="Ellipse 253"
+     class="cls-1"
+     cx="99.322998"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_98"
+     data-name="Path 98"
+     class="cls-1"
+     d="m 90.053,194.178 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_254"
+     data-name="Ellipse 254"
+     class="cls-1"
+     cx="72.175003"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_255"
+     data-name="Ellipse 255"
+     class="cls-1"
+     cx="58.600998"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_256"
+     data-name="Ellipse 256"
+     class="cls-1"
+     cx="45.027"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_257"
+     data-name="Ellipse 257"
+     class="cls-1"
+     cx="31.452999"
+     cy="194.17799"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_99"
+     data-name="Path 99"
+     class="cls-1"
+     d="m 605.16616,112.13346 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_100"
+     data-name="Path 100"
+     class="cls-1"
+     d="m 591.59216,112.13346 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_107"
+     data-name="Path 107"
+     class="cls-1"
+     d="m 469.467,180.604 a 4.47,4.47 0 1 1 -4.469,-4.47 4.451,4.451 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_108"
+     data-name="Path 108"
+     class="cls-1"
+     d="m 455.892,180.604 a 4.47,4.47 0 1 1 -4.469,-4.47 4.451,4.451 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_109"
+     data-name="Path 109"
+     class="cls-1"
+     d="m 442.484,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_110"
+     data-name="Path 110"
+     class="cls-1"
+     d="m 428.91,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_111"
+     data-name="Path 111"
+     class="cls-1"
+     d="m 415.336,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_112"
+     data-name="Path 112"
+     class="cls-1"
+     d="m 401.761,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_113"
+     data-name="Path 113"
+     class="cls-1"
+     d="m 388.187,180.604 a 4.47,4.47 0 1 1 -4.469,-4.47 4.451,4.451 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_116"
+     data-name="Path 116"
+     class="cls-1"
+     d="m 347.63,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_119"
+     data-name="Path 119"
+     class="cls-1"
+     d="m 306.908,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_120"
+     data-name="Path 120"
+     class="cls-1"
+     d="m 293.334,180.604 a 4.47,4.47 0 1 1 -4.469,-4.47 4.451,4.451 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_121"
+     data-name="Path 121"
+     class="cls-1"
+     d="m 279.76,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_127"
+     data-name="Path 127"
+     class="cls-1"
+     d="m 198.48,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_128"
+     data-name="Path 128"
+     class="cls-1"
+     d="m 184.906,180.604 a 4.47,4.47 0 1 1 -4.469,-4.47 4.451,4.451 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_129"
+     data-name="Path 129"
+     class="cls-1"
+     d="m 171.498,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_130"
+     data-name="Path 130"
+     class="cls-1"
+     d="m 157.924,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_131"
+     data-name="Path 131"
+     class="cls-1"
+     d="m 144.349,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_132"
+     data-name="Path 132"
+     class="cls-1"
+     d="m 130.775,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_133"
+     data-name="Path 133"
+     class="cls-1"
+     d="m 117.201,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_134"
+     data-name="Path 134"
+     class="cls-1"
+     d="m 103.627,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_135"
+     data-name="Path 135"
+     class="cls-1"
+     d="m 90.053,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_136"
+     data-name="Path 136"
+     class="cls-1"
+     d="m 76.644,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_137"
+     data-name="Path 137"
+     class="cls-1"
+     d="m 35.922,180.604 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_259"
+     data-name="Ellipse 259"
+     class="cls-1"
+     cx="587.28918"
+     cy="98.559456"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_265"
+     data-name="Ellipse 265"
+     class="cls-1"
+     cx="465.16299"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_266"
+     data-name="Ellipse 266"
+     class="cls-1"
+     cx="451.58899"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_267"
+     data-name="Ellipse 267"
+     class="cls-1"
+     cx="438.01501"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_268"
+     data-name="Ellipse 268"
+     class="cls-1"
+     cx="424.44101"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_140"
+     data-name="Path 140"
+     class="cls-1"
+     d="m 415.336,167.03 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_269"
+     data-name="Ellipse 269"
+     class="cls-1"
+     cx="397.29199"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_275"
+     data-name="Ellipse 275"
+     class="cls-1"
+     cx="302.439"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_277"
+     data-name="Ellipse 277"
+     class="cls-1"
+     cx="275.45599"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_286"
+     data-name="Ellipse 286"
+     class="cls-1"
+     cx="153.45399"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_287"
+     data-name="Ellipse 287"
+     class="cls-1"
+     cx="139.88"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_288"
+     data-name="Ellipse 288"
+     class="cls-1"
+     cx="126.306"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_289"
+     data-name="Ellipse 289"
+     class="cls-1"
+     cx="112.732"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_290"
+     data-name="Ellipse 290"
+     class="cls-1"
+     cx="99.322998"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_142"
+     data-name="Path 142"
+     class="cls-1"
+     d="m 90.053,167.03 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_292"
+     data-name="Ellipse 292"
+     class="cls-1"
+     cx="58.600998"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_293"
+     data-name="Ellipse 293"
+     class="cls-1"
+     cx="31.452999"
+     cy="167.03"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_301"
+     data-name="Ellipse 301"
+     class="cls-1"
+     cx="465.16299"
+     cy="153.45599"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_302"
+     data-name="Ellipse 302"
+     class="cls-1"
+     cx="451.58899"
+     cy="153.45599"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_303"
+     data-name="Ellipse 303"
+     class="cls-1"
+     cx="438.01501"
+     cy="153.45599"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_304"
+     data-name="Ellipse 304"
+     class="cls-1"
+     cx="424.44101"
+     cy="153.45599"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_145"
+     data-name="Path 145"
+     class="cls-1"
+     d="m 415.336,153.456 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_312"
+     data-name="Ellipse 312"
+     class="cls-1"
+     cx="288.86499"
+     cy="153.45599"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_276"
+     data-name="Ellipse 276"
+     class="cls-2"
+     cx="288.73401"
+     cy="166.899"
+     r="13.018"
+     style="fill:#ffffff;stroke:#fa6900;stroke-width:4px" />
+  <path
+     id="Path_156"
+     data-name="Path 156"
+     class="cls-1"
+     d="m 469.467,139.881 a 4.47,4.47 0 1 1 -4.469,-4.47 4.676,4.676 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_157"
+     data-name="Path 157"
+     class="cls-1"
+     d="m 455.892,139.881 a 4.47,4.47 0 1 1 -4.469,-4.47 4.676,4.676 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_158"
+     data-name="Path 158"
+     class="cls-1"
+     d="m 442.484,139.881 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_159"
+     data-name="Path 159"
+     class="cls-1"
+     d="m 428.91,139.881 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_160"
+     data-name="Path 160"
+     class="cls-1"
+     d="m 415.336,139.881 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_163"
+     data-name="Path 163"
+     class="cls-1"
+     d="m 591.04954,58.644766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_164"
+     data-name="Path 164"
+     class="cls-1"
+     d="m 577.47554,58.644766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_165"
+     data-name="Path 165"
+     class="cls-1"
+     d="m 564.06654,58.644766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_166"
+     data-name="Path 166"
+     class="cls-1"
+     d="m 550.49254,58.644766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_167"
+     data-name="Path 167"
+     class="cls-1"
+     d="m 536.91854,58.644766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_330"
+     data-name="Ellipse 330"
+     class="cls-1"
+     cx="614.14801"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_331"
+     data-name="Ellipse 331"
+     class="cls-1"
+     cx="600.57397"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_332"
+     data-name="Ellipse 332"
+     class="cls-1"
+     cx="546.44202"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_333"
+     data-name="Ellipse 333"
+     class="cls-1"
+     cx="532.86798"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_336"
+     data-name="Ellipse 336"
+     class="cls-1"
+     cx="478.57199"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_337"
+     data-name="Ellipse 337"
+     class="cls-1"
+     cx="465.16299"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_338"
+     data-name="Ellipse 338"
+     class="cls-1"
+     cx="451.58899"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_339"
+     data-name="Ellipse 339"
+     class="cls-1"
+     cx="438.01501"
+     cy="126.473"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_190"
+     data-name="Path 190"
+     class="cls-1"
+     d="m 591.04954,45.236766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_343"
+     data-name="Ellipse 343"
+     class="cls-1"
+     cx="573.17255"
+     cy="45.236767"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_344"
+     data-name="Ellipse 344"
+     class="cls-1"
+     cx="559.59753"
+     cy="45.236767"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_345"
+     data-name="Ellipse 345"
+     class="cls-1"
+     cx="546.02356"
+     cy="45.236767"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_350"
+     data-name="Ellipse 350"
+     class="cls-1"
+     cx="559.55475"
+     cy="85.854881"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_351"
+     data-name="Ellipse 351"
+     class="cls-1"
+     cx="545.98077"
+     cy="85.854881"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_352"
+     data-name="Ellipse 352"
+     class="cls-1"
+     cx="532.40674"
+     cy="85.854881"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_354"
+     data-name="Ellipse 354"
+     class="cls-1"
+     cx="356.13226"
+     cy="247.74709"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_355"
+     data-name="Ellipse 355"
+     class="cls-1"
+     cx="342.72327"
+     cy="247.74709"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_356"
+     data-name="Ellipse 356"
+     class="cls-1"
+     cx="329.14926"
+     cy="247.74709"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_365"
+     data-name="Ellipse 365"
+     class="cls-1"
+     cx="614.14801"
+     cy="112.899"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_366"
+     data-name="Ellipse 366"
+     class="cls-1"
+     cx="532.86798"
+     cy="112.899"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_367"
+     data-name="Ellipse 367"
+     class="cls-1"
+     cx="451.58899"
+     cy="112.899"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_195"
+     data-name="Path 195"
+     class="cls-1"
+     d="m 591.04954,31.662766 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_372"
+     data-name="Ellipse 372"
+     class="cls-1"
+     cx="573.17255"
+     cy="31.662767"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_373"
+     data-name="Ellipse 373"
+     class="cls-1"
+     cx="559.59753"
+     cy="31.662767"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_379"
+     data-name="Ellipse 379"
+     class="cls-1"
+     cx="559.55475"
+     cy="72.280884"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_380"
+     data-name="Ellipse 380"
+     class="cls-1"
+     cx="545.98077"
+     cy="72.280884"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_381"
+     data-name="Ellipse 381"
+     class="cls-1"
+     cx="532.40674"
+     cy="72.280884"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_383"
+     data-name="Ellipse 383"
+     class="cls-1"
+     cx="356.13226"
+     cy="234.1731"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_397"
+     data-name="Ellipse 397"
+     class="cls-1"
+     cx="614.14801"
+     cy="99.324997"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_398"
+     data-name="Ellipse 398"
+     class="cls-1"
+     cx="600.57397"
+     cy="99.324997"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_407"
+     data-name="Ellipse 407"
+     class="cls-1"
+     cx="573.70905"
+     cy="112.67095"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_408"
+     data-name="Ellipse 408"
+     class="cls-1"
+     cx="560.13501"
+     cy="112.67095"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_409"
+     data-name="Ellipse 409"
+     class="cls-1"
+     cx="546.56104"
+     cy="112.67095"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_411"
+     data-name="Ellipse 411"
+     class="cls-1"
+     cx="181.12215"
+     cy="273.98291"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_421"
+     data-name="Ellipse 421"
+     class="cls-1"
+     cx="641.29602"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_422"
+     data-name="Ellipse 422"
+     class="cls-1"
+     cx="627.72198"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_423"
+     data-name="Ellipse 423"
+     class="cls-1"
+     cx="614.14801"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_424"
+     data-name="Ellipse 424"
+     class="cls-1"
+     cx="600.57397"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_425"
+     data-name="Ellipse 425"
+     class="cls-1"
+     cx="586.99902"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_199"
+     data-name="Path 199"
+     class="cls-1"
+     d="m 523.763,85.75 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_427"
+     data-name="Ellipse 427"
+     class="cls-1"
+     cx="492.146"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_428"
+     data-name="Ellipse 428"
+     class="cls-1"
+     cx="478.57199"
+     cy="85.75"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_435"
+     data-name="Ellipse 435"
+     class="cls-1"
+     cx="573.70905"
+     cy="99.095955"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_436"
+     data-name="Ellipse 436"
+     class="cls-1"
+     cx="560.13501"
+     cy="99.095955"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_437"
+     data-name="Ellipse 437"
+     class="cls-1"
+     cx="546.56104"
+     cy="99.095955"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_439"
+     data-name="Ellipse 439"
+     class="cls-1"
+     cx="181.12215"
+     cy="260.4079"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_441"
+     data-name="Ellipse 441"
+     class="cls-1"
+     cx="383.34137"
+     cy="260.4079"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_442"
+     data-name="Ellipse 442"
+     class="cls-1"
+     cx="369.76736"
+     cy="260.4079"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_443"
+     data-name="Ellipse 443"
+     class="cls-1"
+     cx="356.19339"
+     cy="260.4079"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_444"
+     data-name="Ellipse 444"
+     class="cls-1"
+     cx="356.89679"
+     cy="287.68005"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_445"
+     data-name="Ellipse 445"
+     class="cls-1"
+     cx="343.32278"
+     cy="287.68005"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_453"
+     data-name="Ellipse 453"
+     class="cls-1"
+     cx="600.57397"
+     cy="72.176003"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_454"
+     data-name="Ellipse 454"
+     class="cls-1"
+     cx="586.99902"
+     cy="72.176003"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_203"
+     data-name="Path 203"
+     class="cls-1"
+     d="m 577.894,72.176 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_204"
+     data-name="Path 204"
+     class="cls-1"
+     d="m 523.763,72.176 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_455"
+     data-name="Ellipse 455"
+     class="cls-1"
+     cx="505.72"
+     cy="72.176003"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_456"
+     data-name="Ellipse 456"
+     class="cls-1"
+     cx="492.146"
+     cy="72.176003"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_457"
+     data-name="Ellipse 457"
+     class="cls-1"
+     cx="478.57199"
+     cy="72.176003"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_458"
+     data-name="Ellipse 458"
+     class="cls-1"
+     cx="465.16299"
+     cy="72.176003"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_469"
+     data-name="Ellipse 469"
+     class="cls-1"
+     cx="194.69614"
+     cy="246.83391"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_470"
+     data-name="Ellipse 470"
+     class="cls-1"
+     cx="181.12215"
+     cy="246.83391"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_476"
+     data-name="Ellipse 476"
+     class="cls-1"
+     cx="17.569557"
+     cy="180.10414"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <path
+     id="Path_215"
+     data-name="Path 215"
+     class="cls-1"
+     d="m 523.57258,59.182259 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_216"
+     data-name="Path 216"
+     class="cls-1"
+     d="m 509.99858,59.182259 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_217"
+     data-name="Path 217"
+     class="cls-1"
+     d="m 496.42458,59.182259 a 4.47,4.47 0 1 1 -4.469,-4.47 4.559,4.559 0 0 1 4.469,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_218"
+     data-name="Path 218"
+     class="cls-1"
+     d="m 482.85058,59.182259 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_224"
+     data-name="Path 224"
+     class="cls-1"
+     d="m 334.26056,301.15018 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_227"
+     data-name="Path 227"
+     class="cls-1"
+     d="m 63.112766,179.29583 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_228"
+     data-name="Path 228"
+     class="cls-1"
+     d="m 49.538766,179.29583 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_229"
+     data-name="Path 229"
+     class="cls-1"
+     d="m 22.038555,166.53014 a 4.47,4.47 0 1 1 -4.47,-4.47 4.451,4.451 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_230"
+     data-name="Path 230"
+     class="cls-1"
+     d="m 36.316978,219.91395 a 4.47,4.47 0 1 1 -4.47,-4.47 4.559,4.559 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_234"
+     data-name="Path 234"
+     class="cls-1"
+     d="m 509.99858,45.608259 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_242"
+     data-name="Path 242"
+     class="cls-1"
+     d="m 360.37221,274.23023 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_243"
+     data-name="Path 243"
+     class="cls-1"
+     d="m 293.35235,288.15644 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     id="Path_246"
+     data-name="Path 246"
+     class="cls-1"
+     d="m 49.538766,165.72183 a 4.47,4.47 0 1 1 -4.47,-4.47 4.676,4.676 0 0 1 4.47,4.47 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_483"
+     data-name="Ellipse 483"
+     class="cls-1"
+     cx="586.24664"
+     cy="18.273046"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_484"
+     data-name="Ellipse 484"
+     class="cls-1"
+     cx="572.67267"
+     cy="18.273046"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_493"
+     data-name="Ellipse 493"
+     class="cls-1"
+     cx="586.24664"
+     cy="4.6990476"
+     r="4.4699998"
+     style="fill:#ffffff" />
+  <circle
+     id="Ellipse_494"
+     data-name="Ellipse 494"
+     class="cls-1"
+     cx="572.67267"
+     cy="4.6990476"
+     r="4.4699998"
+     style="fill:#ffffff" />
+</svg>
