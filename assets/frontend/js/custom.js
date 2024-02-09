@@ -1,6 +1,6 @@
 $( ".wa-custom" ).click(function() {
-  var phone = '6285778920159';
-  var textparse = "Halo digic Business Engineering, Mohon informasinya untuk layanan digitalnya";
+  var phone = '6281212119669';
+  var textparse = "Halo Panida IT, Mohon informasinya untuk layanan digitalnya";
   var device = navigator.userAgent;
   if (device.match(/Android|iPhone|iPad|iPod|BlackBerry/i)) {
     window.location.href = 'https://wa.me/' + phone + '?text=' + textparse;
@@ -156,7 +156,7 @@ $(document).ready(function() {
 				$('.right-hire-us.one').hide()
 				if (hire_check) {
 					typed1 = new Typed('#typing-chat', {
-						strings: ["Halo, kami dari DIGIC, salam kenal. Tertarik menggunakan produk dan layanan yang saya tawarkan? silahkan email ke <a href=\"mailto:hii@digic.id\">hi@digic.id</a>"],
+						strings: ["Halo, kami dari Panida IT, salam kenal. Tertarik menggunakan produk dan layanan yang saya tawarkan? silahkan email ke <a href=\"mailto:afriyadi@panida.co.id\">afriyadi@panida.co.id</a>"],
 						typeSpeed: 10,
 						loop: false,
 					});

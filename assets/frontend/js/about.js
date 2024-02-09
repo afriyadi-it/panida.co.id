@@ -144,7 +144,7 @@ $(document).ready(function() {
 
 function typeAbout() {
     var typed3 = new Typed('#typing-about', {
-        strings: ['MENGENAL DIGIC <br>Business Engineering'],
+        strings: ['MENGENAL Panida <br>Indonesia Teknologi'],
         typeSpeed: 25,
         loop: false,
     });
